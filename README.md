@@ -4,8 +4,8 @@
    
 •	Implemented drivers: UART, Systick Timer, LCD, GPS, OS
 
-HARDWARE
-https://drive.google.com/drive/folders/1e5V5p4nYeRpVyGWGmu8huPdV9fxi8aiS
+HARDWARE (LCD & LED Only Showing Example output)
+![image](https://user-images.githubusercontent.com/68311964/125176734-20888180-e1d6-11eb-88d7-11e75b2447f4.png)
 
 
 ROUTE TAKEN
